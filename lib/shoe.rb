@@ -8,8 +8,8 @@ def initialize(brand)
 end
 
 def cobble
-if shoe.conditon = "old"
-  shoe.conditon = "new"
+if Shoe.conditon = "old"
+  Shoe.conditon = "new"
 end
   puts "Your shoe is as good as new!"
 end
