@@ -10,7 +10,7 @@ end
 def cobble
 if shoe.conditon = "old"
   shoe.conditon = "new"
-  puts "Your shoe is as good as new!"
 end
+  puts "Your shoe is as good as new!"
 end
 end
