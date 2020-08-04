@@ -7,8 +7,6 @@ def initialize(brand)
   @brand = brand
 end
 
-end
-
 def cobble(condition)
   if conditon == "old"
     condition = "new"
