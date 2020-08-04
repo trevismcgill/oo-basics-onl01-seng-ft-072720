@@ -8,3 +8,7 @@ def initialize(brand)
 end
 
 end
+
+def cobble
+
+end
