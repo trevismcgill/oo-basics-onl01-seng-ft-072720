@@ -8,7 +8,7 @@ def initialize(brand)
 end
 
 def cobble
-  if conditon == "old"
+  if condition == "old"
     condition = "new"
   puts "Your shoe is as good as new!"
 end
